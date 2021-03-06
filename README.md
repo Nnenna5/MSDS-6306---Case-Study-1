@@ -28,3 +28,5 @@ Useful inference from the data for the Budweiser brand.
 
 Halle Purdom: https://youtu.be/vVQMNWwsJ8Y 
 
+Nnenna Okpara: https://www.youtube.com/watch?v=oB1xGwd9zaY
+
