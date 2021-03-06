@@ -1,7 +1,7 @@
 ---
 title: "Project 1 (DS 6306)"
 author: "Nnenna Okpara & Halle Purdom"
-date: "2/18/2021"
+date: "3/06/2021"
 output: html_document
 ---
 
@@ -257,5 +257,10 @@ In the data, the majority of the beers were either 12-ounce size or 16-ounce siz
 
 From these graphs, the IBU variable also appeared to have a similar distribution to the ABV vairable explored previously in Question 6. A noteable difference is that the IBU density plots had two peaks rather than one. The largest peak at around 25 is where most of the beers are clustered, but there is also a smaller notable peak around 65, so a significant number of beers will also have bitterness ratings at and close to 65. 
 
-#End of Analysis
+
+#Conclusion
+In conclusion we were able to explore states with the most breweries in the United States. We also explored the relationship between IBU and ABV values. IBU and ABV values both have a positive relationship. When looking into Ales vs. IPAs, it was found that IPAs generally had higher ABVs and IBUs while Ales had lower ABVs and IBUs. In comparing 16- and 12-ounce beers for ABV and IBU, the 16-ounce beers had slightly higher distribution of alcohol levels and bitterness ratings. Lastly, the IBU variable’s distribution had a double peak, meaning while most beers had IBUs clustered around  25, another smaller group of beers also clustered around 65.
+
+
+
 
